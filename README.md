@@ -89,4 +89,5 @@ Using Anaconda should be seen as a suggestion for newcomers in the field. If you
 # Acknowledgments
 The material in this repository has been collected from a variety of sources. Thanks to the authors of the online courses for making their valuable teachings accesible for free. Furthermore, thanks to all authors of the open textbooks, YouTube channels, exercises, and lecture notes.
 
+All the course material was original collected and prepared by [Jacob Jeppesen] (https://github.com/JacobJeppesen/ML-Course)
 Machine learning exercises were forked from [Gerges Dib](https://github.com/dibgerge/ml-coursera-python-assignments) and lecture notes and slides were forked from [Remy Marquis](https://github.com/rmarquis/coursera-machinelearning).
