@@ -6,3 +6,5 @@
 * [Land Cover Classification](https://medium.com/sentinel-hub/land-cover-classification-with-eo-learn-part-3-c62ed9ecd405)
 
 * [Predicting household poverty with machine learning and remote sensing](https://www.pnas.org/content/116/4/1213) 
+
+* Predicting stellar surface gravities. [Data file](Flicker.txt). Reference [Paper I](http://adsabs.harvard.edu/abs/2016ApJ...818...43B) [Paper 2](http://adsabs.harvard.edu/abs/2014ApJS..210....1C)
