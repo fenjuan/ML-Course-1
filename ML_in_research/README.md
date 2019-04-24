@@ -7,4 +7,4 @@
 
 * [Predicting household poverty with machine learning and remote sensing](https://www.pnas.org/content/116/4/1213) 
 
-* Predicting stellar surface gravities. [Data file](FML_in_research/licker.txt). Reference [Paper I](http://adsabs.harvard.edu/abs/2016ApJ...818...43B) [Paper II](http://adsabs.harvard.edu/abs/2014ApJS..210....1C)
+* Predicting stellar surface gravities. [Data file](flicker.txt). Reference [Paper I](http://adsabs.harvard.edu/abs/2016ApJ...818...43B) [Paper II](http://adsabs.harvard.edu/abs/2014ApJS..210....1C)
